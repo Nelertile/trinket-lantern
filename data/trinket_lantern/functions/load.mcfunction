@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Trinket Lantern","bold":true,"underlined":true,"color":"gold"},{"text":" by ","color":"gray"},{"text":"Nelertile","bold":true,"italic":true,"underlined":true,"color":"green"},"\n",{"text":"v1.0.0","italic":true,"color":"blue"},"\n",{"text":"Load Success!","bold":true,"color":"yellow"}]
